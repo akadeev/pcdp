@@ -5,11 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>edu.coursera.pcdp</groupId>
-    <artifactId>pcdp</artifactId>
+    <artifactId>parallel</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>parallel</module>
-        <module>concurrent</module>
+        <module>miniproject_0</module>
+        <module>miniproject_1</module>
+        <module>miniproject_2</module>
+        <module>miniproject_3</module>
+        <module>miniproject_4</module>
     </modules>
 </project>
